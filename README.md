@@ -4,6 +4,11 @@ Open Android Studio
 Select Empty Activity
 Choose Java as the programming language
 
+```
+Done by : Lakshmi Priya V
+Register Number : 212223220049
+```
+
 activity_main.xml
 ```
 
